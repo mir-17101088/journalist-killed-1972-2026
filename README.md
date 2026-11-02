@@ -2,7 +2,7 @@
 
 The Daily Star, by Mir Rownak (research, data, design and development).
 
-Goes live at **https://campaign.thedailystar.net/journalist-killed-1972-2026/** on 4 November 2026.
+Goes live at **https://campaign.thedailystar.net/journalist-killed-1972-2026/** on 2 November 2026.
 
 This folder is the finished website: plain static files, no server code, no calls to outside services (fonts and scripts are self-hosted). Every path inside it is relative, so it works at the root of a domain (a Vercel preview) and inside the `/journalist-killed-1972-2026/` folder on the live server.
 

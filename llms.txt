@@ -2,7 +2,7 @@
 
 > The 62 journalists and media workers killed in Bangladesh since 1972, and where each case stands. A court has convicted someone in only 14 cases.
 
-The Daily Star, 4 November 2026. By Mir Rownak (research, data and visualisation).
+The Daily Star, 2 November 2026. By Mir Rownak (research, data and visualisation).
 Page: https://campaign.thedailystar.net/journalist-killed-1972-2026/
 
 ## Summary
@@ -45,4 +45,4 @@ Sources: CPJ, RSF, IFJ, UNESCO, IFEX, ARTICLE 19, IPI, ASK, PEC, BCDJC, Front Li
 
 ## Cite as
 
-The Daily Star, "The journalists Bangladesh lost, and the justice that rarely came", 4 November 2026, https://campaign.thedailystar.net/journalist-killed-1972-2026/
+The Daily Star, "The journalists Bangladesh lost, and the justice that rarely came", 2 November 2026, https://campaign.thedailystar.net/journalist-killed-1972-2026/
