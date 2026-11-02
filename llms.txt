@@ -1,6 +1,6 @@
 # The journalists Bangladesh lost, and the justice that rarely came
 
-> The 62 journalists and media workers killed in Bangladesh since 1972, and where each case stands. A court has convicted someone in only 14 cases.
+> The 61 journalists and media workers killed in Bangladesh since 1972, and where each case stands. A court has convicted someone in only 14 cases.
 
 The Daily Star, 2 November 2026. By Mir Rownak (research, data and visualisation).
 Page: https://campaign.thedailystar.net/journalist-killed-1972-2026/
@@ -19,9 +19,9 @@ What most cases share is what happened next. The trial over the 1998 bomb killin
 
 ## The numbers
 
-- 62 journalists and media workers killed in Bangladesh since 1972 are on this list.
+- 61 journalists and media workers killed in Bangladesh since 1972 are on this list.
 - 14 of those cases have ended with a court convicting someone.
-- 48 have not. Some are still under investigation or in court, some were closed, and in others no one was ever charged.
+- 47 have not. Some are still under investigation or in court, some were closed, and in others no one was ever charged.
 
 ## On the page
 
@@ -34,7 +34,6 @@ What most cases share is what happened next. The trial over the 1998 bomb killin
 - Who is included: journalists and media workers (reporters, correspondents, editors, publishers, photojournalists, online journalists, and bloggers where CPJ counts them as journalists) killed by violence in Bangladesh from 1 January 1972 to 1 November 2026. Accidents and illness are excluded. Inclusion does not mean the killing was linked to the person's journalism; each record says what is known about the motive.
 - A case is listed when at least two independent reliable sources, or one strong source (CPJ, RSF, IFJ, UNESCO or a major Bangladeshi daily), confirm the killing. Deaths that remain disputed (bodies found, deaths called suicide or accident) and names that appear in a single list are not included, so the true number is likely higher.
 - Records before 1992, when CPJ's database begins, are thin.
-- Sheikh Fazlul Haque Moni, editor of Banglar Bani, is included because he was an editor; he was killed in the coup of 15 August 1975, and no source links his killing to his journalism. Convictions in the Bangabandhu murder case are not counted as a conviction in his case, in which all accused were acquitted in 2002.
 - Rana Pratap Bairagi, acting editor of Dainik BD Khobor, is included as a journalist killed in 2026. Police say his killing arose from a conflict between banned extremist groups, and the interim government has said it was not linked to journalism.
 - "Convicted" means a trial court found at least one person guilty, even if an appeal is pending. In Humayun Kabir Balu's case, the convictions came in a separate explosives case over the same attack; the murder case ended in acquittal.
 - Case status is as of the most recent report we found, given in each record. Locations are placed at the centre of the upazila.
