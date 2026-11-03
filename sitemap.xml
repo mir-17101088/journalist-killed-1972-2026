@@ -13,4 +13,17 @@
     <image:image><image:loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/img/share-4x3.jpg</image:loc></image:image>
     <image:image><image:loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/img/share-1x1.jpg</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/bn/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <news:news>
+      <news:publication><news:name>The Daily Star</news:name><news:language>bn</news:language></news:publication>
+      <news:publication_date>2026-11-02</news:publication_date>
+      <news:title>বাংলাদেশ যে সাংবাদিকদের হারিয়েছে, আর যে বিচার কদাচিৎ মিলেছে</news:title>
+    </news:news>
+    <image:image><image:loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/img/share.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/img/share-16x9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/img/share-4x3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/journalist-killed-1972-2026/img/share-1x1.jpg</image:loc></image:image>
+  </url>
 </urlset>
